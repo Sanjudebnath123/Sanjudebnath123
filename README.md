@@ -10,15 +10,14 @@
 
 # 💫 About Me:
 - I'm Currently learning Data Analyst from Dataspace Academy
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/>
-</div>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 ## 🌐 Connect with me:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 # 💻 Tech Stack:
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanjudebnath123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
