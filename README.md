@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 - I'm Currently learning Data Analyst from Dataspace Academy
-<img align="right" alt="GIF" src="https://i.gifer.com/75ez.gif" width="500" height="320"/>
+
 
 ## 🌐 Connect with me:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
