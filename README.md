@@ -1,26 +1,23 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-  I'm Sanju Debnath
-</h1>
 
-# 💫 About Me:
-- I'm Currently learning Data Analyst from Dataspace Academy
+<h1 align="center">Hi 👋, I'm Sanju Debnath</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjudebnath123&label=Profile%20views&color=0e75b6&style=flat" alt="sanjudebnath123" /> </p>
 
+- 🌱 I’m currently learning **Data Analyst**
 
-## 🌐 Connect with me:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+- 💬 Ask me about **Python, Excel**
 
-# 💻 Tech Stack:
+- 📫 How to reach me **debnath.sanju2016@gmail.com**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanjudebnath123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjudebnath123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjudebnath123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- ⚡ Fun fact **If you data you are the boss**
 
----
-[![](https://visitcount.itsvg.in/api?id=Sanjudebnath123&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sanju debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanju debnath" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjudebnath123&show_icons=true&locale=en&layout=compact" alt="sanjudebnath123" /></p>
