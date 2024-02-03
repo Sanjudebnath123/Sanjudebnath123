@@ -1,5 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Sanju Debnath</h1>
+<h1
+<img align="center" width="800" src="Hello, I’m Sanju Debnath. Data Analyst.png
+</h1 
+<h2 align="center">Hey 👋, I'm Sanju Debnath</h2>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjudebnath123&label=Profile%20views&color=0e75b6&style=flat" alt="sanjudebnath123" /> </p>
