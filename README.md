@@ -9,14 +9,15 @@
 </h1>
 
 # 💫 About Me:
-I'm Currently learning Data Analyst from Dataspace Academy
--
+- I'm Currently learning Data Analyst from Dataspace Academy
+
 
 
 ## 🌐 Connect with me:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 # 💻 Tech Stack:
+![Excel](https://github.com/Sanjudebnath123/Sanjudebnath123/assets/147431378/8ec2f117-c682-476c-980f-e6220b9353da) ![Python](https://github.com/Sanjudebnath123/Sanjudebnath123/assets/147431378/11cd3d1c-4a34-454c-a1de-cfc88637ec7d) ![MySQl](https://github.com/Sanjudebnath123/Sanjudebnath123/assets/147431378/2c622f0e-ab5f-496a-9796-cf468569d63c) ![Power BI](https://github.com/Sanjudebnath123/Sanjudebnath123/assets/147431378/835ee249-0ffd-4dd7-9437-ea9b8ea3d9db)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanjudebnath123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
