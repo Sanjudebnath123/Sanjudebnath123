@@ -9,14 +9,12 @@
 
 # 💫 About Me:
 - I'm Currently learning Data Analyst from Dataspace Academy
-<img align="right" alt="GIF" src="https://i.gifer.com/75ez.gif raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.gifer.com/75ez.gif" width="500" height="320"/>
 
 ## 🌐 Connect with me:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 # 💻 Tech Stack:
-<code><img height="20" src="![image](https://github.com/Sanjudebnath123/Sanjudebnath123/assets/147431378/60a69eb7-ebb0-43d6-a24d-b0f428ba3c14)
-"></code>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanjudebnath123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
