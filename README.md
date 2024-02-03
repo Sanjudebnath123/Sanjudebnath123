@@ -1,6 +1,7 @@
-<h1
-<img align="center" width="800" src="Hello, I’m Sanju Debnath. Data Analyst.png
-</h1 
+<p align="center">
+  <img width="1000" src="Hello, I’m Sanju Debnath. Data Analyst.png">
+</p>
+
 <h2 align="center">Hey 👋, I'm Sanju Debnath</h2>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
