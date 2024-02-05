@@ -9,11 +9,13 @@
 
 - 🌱 I’m currently learning : **Data Analyst**
 
-- 👨‍💻 Skills i used most : **Excel | Python | SQL | Power BI**
+- 👨‍💻 Ask me about : **Excel | Python | SQL | Power BI | Pandas | NumPy | Lookup**
 
 - 📫 How to reach me : **debnath.sanju2016@gmail.com**
+  
 - 📄 Know about my experiences [My_Resume](https://github.com/Sanjudebnath123/Sanjudebnath123/blob/main/SANJU%20DEBNATH%20RESUME.pdf)
-- ⚡ Fun fact : **If you have the data you are the boss**
+  
+- ⚡ fun Fact : **If you know how to manipulate the data, you can do anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left" <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/D4Vinci/Dr0p1t-Framework/master/icons/Microsoft-Excel.ico" alt="Excel" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="python" width="25" height="35"/> </a> </p> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjudebnath123&show_icons=true&locale=en&layout=compact" alt="sanjudebnath123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjudebnath123&show_icons=true&locale=en&layout=compact" alt="sanjudebnath123" /></p>   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=true">    <img  alt="Sanjudebnath's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sanjudebnath?cardType=github&theme=radical&preferLogin=true" />  </a>
+
