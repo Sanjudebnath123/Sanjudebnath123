@@ -12,7 +12,7 @@
 - 👨‍💻 Skills i used most : **Excel | Python | SQL | Power BI**
 
 - 📫 How to reach me : **debnath.sanju2016@gmail.com**
-
+- 📄 Know about my experiences [My_Resume](https://github.com/Sanjudebnath123/Sanjudebnath123/blob/main/SANJU%20DEBNATH%20RESUME.pdf)
 - ⚡ Fun fact : **If you have the data you are the boss**
 
 <h3 align="left">Connect with me:</h3>
