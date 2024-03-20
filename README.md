@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Sanju Debnath</h2>
-<h3 align="center">A passionate Data Analyst from Kolkata</h3>
+<h3 align="center">"Data analyst with a commerce background skilled in extracting actionable insights from data to drive strategic business decisions"</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjudebnath123&label=Profile%20views&color=0e75b6&style=flat" alt="sanjudebnath123" /> </p>
 
